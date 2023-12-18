@@ -224,20 +224,28 @@ hr {
 
     .paragraph2 {
         margin-top: 20px;
+        font-size: 19px;
     }
 
     .date {
         margin-top: 20px;
+        font-size: 18px;
     }
 
     .header {
-        margin-top: 15px;
+        margin-top: 25px;
     }
 
     .flexbox {
         flex-direction: column;
     }
+
+    .image{
+        margin-top: 4rem;
+    }
 }
+
+
 
 .sect-2 {
     background-image: url(./img/pexelsphoto324028.jpg);
@@ -295,6 +303,10 @@ hr {
     .minicontainer {
         padding-top: 20px;
         padding-bottom: 5rem;
+    }
+
+    .sect-2{
+        min-height: 60vh;
     }
 }
 
