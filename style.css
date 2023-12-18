@@ -386,6 +386,11 @@ hr {
     .flexbox-1 {
         flex-direction: column;
     }
+
+    .paragraph-1{
+        font-size: 19px;
+        padding: 0.8rem;
+    }
 }
 
 .img1 {
@@ -452,6 +457,11 @@ hr {
         margin-top: 5rem;
         width: 100%;
         background-size: cover;
+    }
+
+    .details{
+        height: 30vh;
+        margin-bottom: 6rem;
     }
 }
 
