@@ -490,4 +490,8 @@ a:hover {
     .footer{
         height: 7vh;
     }
+
+    .paragraph-2{
+        font-size: 18px;
+    }
 }
