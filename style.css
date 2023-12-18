@@ -47,7 +47,9 @@
 }
 
 @media screen and (max-width:430px) {
-    .hero-page {}
+    .hero-page {
+        min-height: 80vh;
+    }
 }
 
 /* This is the style of section-1 */
